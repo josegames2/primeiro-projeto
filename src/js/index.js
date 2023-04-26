@@ -1,3 +1,4 @@
+alert(eu sei que ta uma bosta nao precisa dizer);
 const botoescarrossel = document.querySelectorAll('.botao');
 const imagens = document.querySelectorAll('.imagem');
 
